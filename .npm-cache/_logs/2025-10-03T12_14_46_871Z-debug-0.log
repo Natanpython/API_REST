@@ -1,0 +1,18 @@
+0 verbose cli D:\node.exe D:\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.14.0
+3 silly config load:file:D:\node_modules\npm\npmrc
+4 silly config load:file:D:\Projetos\estudo\BotZone\.npmrc
+5 silly config load:file:C:\Users\natanael\.npmrc
+6 silly config load:file:C:\Users\natanael\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm exec sequelize db:migrate
+8 verbose argv "exec" "--" "sequelize" "db:migrate"
+9 verbose logfile logs-max:10 dir:D:\Projetos\estudo\BotZone\.npm-cache\_logs\2025-10-03T12_14_46_871Z-
+10 verbose logfile D:\Projetos\estudo\BotZone\.npm-cache\_logs\2025-10-03T12_14_46_871Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose cwd D:\Projetos\estudo\BotZone
+13 verbose os Windows_NT 10.0.19045
+14 verbose node v22.14.0
+15 verbose npm  v10.9.2
+16 verbose exit 1
+17 verbose code 1

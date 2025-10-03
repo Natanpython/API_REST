@@ -3,9 +3,9 @@ module.exports = {
   development: {
     dialect: "postgres",
     host: "localhost",
-    username: "postgres",
-    password: "123",
-    database: "postgres",
+    username: "robotclass",
+    password: "Natan123",
+    database: "botzone",
     define: {
       timestamps: true,
       underscored: true,
